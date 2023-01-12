@@ -1,7 +1,7 @@
 public class anagramPractice {
     public static void main(String[] args) {
-        String s1="abccba";
-        String s2="abc";
+        String s1="abc";
+        String s2="abcd";
         boolean isAnagram=true;
 
         char[] a=new char[256];
